@@ -35,3 +35,5 @@ The primary objectives of this project are as follows:
 2. **Floor-wise Connectivity:** Establish seamless connectivity on each floor to ensure smooth operations.
 3. **IT Labs Setup:** Configure and set up IT labs on the first and second floors, including necessary networking components.
 4. **Data Centre Configuration:** Implement a secure and reliable data centre on the third floor housing the 3 servers.
+
+Network Design proposal: https://drive.google.com/drive/folders/1leQeWCIttL4srboHBZQINmzWa_oVEG7w?usp=sharing
